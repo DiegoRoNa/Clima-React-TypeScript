@@ -1,0 +1,27 @@
+.container {
+    background-color: white;
+    color: #000;
+    border-radius: 1rem;
+    text-align: center;
+    padding: 1rem;
+}
+
+.current {
+    font-size: 6rem;
+    font-weight: 900;
+    margin: 0;
+}
+
+.tempetures {
+    display: flex;
+    justify-content: center;
+    gap: 5rem;
+}
+
+.tempetures p {
+    font-weight: 900;
+}
+
+.tempetures span {
+    font-weight: 400;
+}
